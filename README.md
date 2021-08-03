@@ -10,3 +10,7 @@ You need to startup the bot to be able to play this game in your server.
 2. Open IDLE on your PC, copy main.py.
 3. Replace "TOKEN_HERE" with your bot token, which you will find in your application details.
 4. Run the Code.
+
+### Usage
+- Run `sc!chess` after joining a VC
+- Click on the link sent by the bot to start playing!
