@@ -12,8 +12,22 @@ You need to startup the bot to be able to play this game in your server.
 4. Run the Code.
 
 ### Usage
-- Run `sc!chess` after joining a VC
+- Run `!!play [activity]` after joining a voice channel.
 - Click on the link sent by the bot to start playing!
+
+### Adctivites
+- Currently supports 5 activities.
+  - chess (Chess in The Park)
+  - fish (Fishington.io)
+  - poker (Poker Night)
+  - yt (Youtube Together)
+  - betrayal (Betrayal.io)
+- Run `!!play [activity]` after joining a voice channel.
+
+### Example Usage
+- Run `!!play chess` after joining a voice channel.
+- Click on the link sent by the bot to start playing!
+
 
 ### Errors
 - discord.gg/0 - This means the bot doesn't have access to the voice channel you're in, or cannot view it.
