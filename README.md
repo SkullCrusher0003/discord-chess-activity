@@ -18,3 +18,8 @@ You need to startup the bot to be able to play this game in your server.
 ### Errors
 - discord.gg/0 - This means the bot doesn't have access to the voice channel you're in, or cannot view it.
 - discord.gg/50013 - This means the bot doesn't have `create_invite` permission in your voice channel.
+
+### SideNotes
+- This project is in no way affiliated with Discord or it's games.
+- If discord patches up their AppID for this game, the project/bot will seize to work.
+- Highly Detailed Tutorial: [YouTube](https://www.youtube.com/watch?v=i2omdg_jOsQ)
