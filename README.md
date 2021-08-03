@@ -14,3 +14,7 @@ You need to startup the bot to be able to play this game in your server.
 ### Usage
 - Run `sc!chess` after joining a VC
 - Click on the link sent by the bot to start playing!
+
+### Errors
+- discord.gg/0 - This means the bot doesn't have access to the voice channel you're in, or cannot view it.
+- discord.gg/50013 - This means the bot doesn't have `create_invite` permission in your voice channel.
