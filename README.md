@@ -6,7 +6,7 @@ Discord has been launching Games in VC one by one. *Chess in the Park is an excl
 You need to startup the bot to be able to play this game in your server.
 
 ### Bot Startup Instructions for Beginners
-Go to discord.com/developers, create an application.
-Open IDLE on your PC, copy main.py.
-Replace "TOKEN_HERE" with your bot token, which you will find in your application details.
-Run the Code.
+1. Go to discord.com/developers, create an application.
+2. Open IDLE on your PC, copy main.py.
+3. Replace "TOKEN_HERE" with your bot token, which you will find in your application details.
+4. Run the Code.
