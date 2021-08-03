@@ -14,7 +14,7 @@ async def chess(ctx):
     if voiceChannel != None:
       url = f"https://discord.com/api/v9/channels/{voiceChannel.id}/invites"
       body = {
-        "max_age": 86400,
+        "max_age": 1800,
         "max_uses": 0,
         "target_application_id": "832012774040141894",
         "target_type": 2,
